@@ -2,7 +2,7 @@
   <img src="./sol levante.gif" width="700">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=89CFF0&center=true&vCenter=true&width=500&lines=mystic+blue">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=mystic+blue">
 </p>
 <!--
 **he4rtless02/he4rtless02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
